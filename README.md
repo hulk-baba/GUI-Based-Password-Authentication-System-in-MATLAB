@@ -8,8 +8,8 @@ This projects uses certain points in images  which user selects at the time of s
 ###Settings
 To able to run this projects you need to have
 
-*MYSQL Server or any database
-*Able to create Data Source using JDBC Or ODBC drivers
-*set up database tables as described using .sql files in a databse
-*change relevant names according to your convenient names
+1. MYSQL Server or any database
+2. Able to create Data Source using JDBC Or ODBC drivers
+3. set up database tables as described using .sql files in a databse
+4. change relevant names according to your convenient names
  
