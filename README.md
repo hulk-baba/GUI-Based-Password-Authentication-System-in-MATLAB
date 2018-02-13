@@ -1,11 +1,11 @@
 # GUI-Based-Password-Authentication-System-in-MATLAB and MYSQL
-###Description
+### Description
 
 This project is an alternative to conventional password authentication techniques like text passwords etc.
 
 This projects uses certain points in images  which user selects at the time of signup as password. The user will be able to login only if user points to the same points.(slight error is acceptable)
 
-###Settings
+### Settings
 To able to run this projects you need to have
 
 1. MYSQL Server or any database
